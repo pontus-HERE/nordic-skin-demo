@@ -10,7 +10,7 @@
       "Dry",
       "Sensitive"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-001.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-001.jpg",
     "url": "https://example.com/products/NS-001",
     "inventory": 100
   },
@@ -25,7 +25,7 @@
       "Dry",
       "Sensitive"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-002.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-002.jpg",
     "url": "https://example.com/products/NS-002",
     "inventory": 100
   },
@@ -40,7 +40,7 @@
       "Dry",
       "Normal"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-003.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-003.jpg",
     "url": "https://example.com/products/NS-003",
     "inventory": 100
   },
@@ -55,7 +55,7 @@
       "Dry",
       "Sensitive"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-004.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-004.jpg",
     "url": "https://example.com/products/NS-004",
     "inventory": 100
   },
@@ -70,7 +70,7 @@
       "Normal",
       "Combination"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-005.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-005.jpg",
     "url": "https://example.com/products/NS-005",
     "inventory": 100
   },
@@ -85,7 +85,7 @@
       "Dry",
       "Sensitive"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-006.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-006.jpg",
     "url": "https://example.com/products/NS-006",
     "inventory": 100
   },
@@ -100,7 +100,7 @@
       "Combination",
       "Normal"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-007.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-007.jpg",
     "url": "https://example.com/products/NS-007",
     "inventory": 100
   },
@@ -115,7 +115,7 @@
       "Normal",
       "Dry"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-008.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-008.jpg",
     "url": "https://example.com/products/NS-008",
     "inventory": 100
   },
@@ -129,7 +129,7 @@
       "Moisturizer",
       "Dry"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-009.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-009.jpg",
     "url": "https://example.com/products/NS-009",
     "inventory": 100
   },
@@ -144,7 +144,7 @@
       "Dry",
       "Sensitive"
     ],
-    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-010.jpg",
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/ NS-010.jpg",
     "url": "https://example.com/products/NS-010",
     "inventory": 100
   }
