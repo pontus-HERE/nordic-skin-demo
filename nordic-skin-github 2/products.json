@@ -1,0 +1,151 @@
+[
+  {
+    "id": "NS-001",
+    "title": "Gentle Cleansing Cream",
+    "description": "Mild rengöringskräm för daglig användning.",
+    "price": 249,
+    "currency": "SEK",
+    "categories": [
+      "Cleanser",
+      "Dry",
+      "Sensitive"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-001.jpg",
+    "url": "https://example.com/products/NS-001",
+    "inventory": 100
+  },
+  {
+    "id": "NS-002",
+    "title": "Hydrating Cleansing Milk",
+    "description": "Mjuk rengöringsmjölk för torr hud.",
+    "price": 279,
+    "currency": "SEK",
+    "categories": [
+      "Cleanser",
+      "Dry",
+      "Sensitive"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-002.jpg",
+    "url": "https://example.com/products/NS-002",
+    "inventory": 100
+  },
+  {
+    "id": "NS-003",
+    "title": "Hydrating Face Serum",
+    "description": "Återfuktande ansiktsserum.",
+    "price": 399,
+    "currency": "SEK",
+    "categories": [
+      "Serum",
+      "Dry",
+      "Normal"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-003.jpg",
+    "url": "https://example.com/products/NS-003",
+    "inventory": 100
+  },
+  {
+    "id": "NS-004",
+    "title": "Sensitive Repair Serum",
+    "description": "Serum för en mild hudvårdsrutin.",
+    "price": 429,
+    "currency": "SEK",
+    "categories": [
+      "Serum",
+      "Dry",
+      "Sensitive"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-004.jpg",
+    "url": "https://example.com/products/NS-004",
+    "inventory": 100
+  },
+  {
+    "id": "NS-005",
+    "title": "Daily Moisturizer SPF 30",
+    "description": "Dagkräm med SPF 30 i det fiktiva sortimentet.",
+    "price": 349,
+    "currency": "SEK",
+    "categories": [
+      "Moisturizer",
+      "Normal",
+      "Combination"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-005.jpg",
+    "url": "https://example.com/products/NS-005",
+    "inventory": 100
+  },
+  {
+    "id": "NS-006",
+    "title": "Sensitive Repair Cream",
+    "description": "Mjuk ansiktskräm för känslig hud.",
+    "price": 379,
+    "currency": "SEK",
+    "categories": [
+      "Moisturizer",
+      "Dry",
+      "Sensitive"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-006.jpg",
+    "url": "https://example.com/products/NS-006",
+    "inventory": 100
+  },
+  {
+    "id": "NS-007",
+    "title": "Balancing Facial Oil",
+    "description": "Ansiktsolja för en balanserad rutin.",
+    "price": 329,
+    "currency": "SEK",
+    "categories": [
+      "Serum",
+      "Combination",
+      "Normal"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-007.jpg",
+    "url": "https://example.com/products/NS-007",
+    "inventory": 100
+  },
+  {
+    "id": "NS-008",
+    "title": "Overnight Renewal Serum",
+    "description": "Nattserum för en vårdande kvällsrutin.",
+    "price": 499,
+    "currency": "SEK",
+    "categories": [
+      "Anti-aging",
+      "Normal",
+      "Dry"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-008.jpg",
+    "url": "https://example.com/products/NS-008",
+    "inventory": 100
+  },
+  {
+    "id": "NS-009",
+    "title": "Rich Barrier Cream",
+    "description": "Rik ansiktskräm för torr hud.",
+    "price": 549,
+    "currency": "SEK",
+    "categories": [
+      "Moisturizer",
+      "Dry"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-009.jpg",
+    "url": "https://example.com/products/NS-009",
+    "inventory": 100
+  },
+  {
+    "id": "NS-010",
+    "title": "Hydration Essentials Kit",
+    "description": "Kit med rengöring, serum och kräm.",
+    "price": 799,
+    "currency": "SEK",
+    "categories": [
+      "Skincare Kits",
+      "Dry",
+      "Sensitive"
+    ],
+    "image_url": "https://raw.githubusercontent.com/pontus-HERE/nordic-skin-demo/main/nordic_skin_images/NS-010.jpg",
+    "url": "https://example.com/products/NS-010",
+    "inventory": 100
+  }
+]
